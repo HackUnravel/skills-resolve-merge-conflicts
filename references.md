@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Some text here for conflict.
